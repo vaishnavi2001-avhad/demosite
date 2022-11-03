@@ -16,3 +16,7 @@ h2{
 h3{
     color: #6b011f;
 }
+.main{
+  display: flex;
+  justify-content: center;
+}
